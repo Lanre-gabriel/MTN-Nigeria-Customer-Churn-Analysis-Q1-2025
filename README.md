@@ -19,16 +19,21 @@ Thus,this **Customer Churn Analysis** seeks to investigate and visualiize the tr
 
 | Stage | Action |
 |:------|:-------|
-| problem | Confusing data bundles and price hikes|
-| Customer reaction | Downgrading or switching providers |
-| Investigation | Churn rate,
-Retained customers behavior, Satisfaction levels |
+| **problem** | Confusing data bundles and price hikes|
+| **Customer reaction** | Downgrading or switching providers |
+| **Investigation** | Churn rate,Retained customers behavior,Satisfaction levels |
 
 **Investigation Focus Areas**
 
 | Areas | Purpose |
 | :-----| :-------|
-| Churn Rate | Measures how many customers are leaving MTN |
-| Behaviors of Retained customers | Analyze if customers are downgrading their data plans | 
-| Customers Satisfaction | Assess public opinion after  recent price hikes |
+| **Churn Rate** | Measures how many customers are leaving MTN |
+| **Behaviors of Retained customers**| Analyze if customers are downgrading their data plans | 
+| **Customers Satisfaction** | Assess public opinion after recent price hikes |
+
+## Aims and Objectives 
+This project is primarily to investigate the impact of  MTN's complex data bundle and recent price increase on customer behavior.
+Using an Excel dashboard,Churn rate is explored through different categories,retention rate and customers satisfaction levels is quantified.
+
+
 
