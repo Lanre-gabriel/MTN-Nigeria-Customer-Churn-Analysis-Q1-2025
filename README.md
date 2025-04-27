@@ -9,8 +9,26 @@ This complexity,couple with recent hikes, has caused widespread customer frustra
 
 Many Customers either:
 
-**Downgrade to cheaper plan,or**
+** Downgrade to cheaper plan,or
 
-**Churn to competitors**
+** Churn to competitors
 
 Thus,this **Customer Churn Analysis** seeks to investigate and visualiize the trends behind this behavior and proffer actionable solutions. 
+
+**Project Flow**
+
+| Stage | Action |
+|:------|:-------|
+| problem | Confusing data bundles and price hikes|
+| Customer reaction | Downgrading or switching providers |
+| Investigation | Churn rate,
+Retained customers behavior, Satisfaction levels |
+
+**Investigation Focus Areas**
+
+| Areas | Purpose |
+| :-----| :-------|
+| Churn Rate | Measures how many customers are leaving MTN |
+| Behaviors of Retained customers | Analyze if customers are downgrading their data plans | 
+| Customers Satisfaction | Assess public opinion after  recent price hikes |
+
