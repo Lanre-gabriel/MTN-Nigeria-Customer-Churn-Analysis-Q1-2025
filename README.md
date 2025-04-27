@@ -2,16 +2,16 @@
 Excel dashboard analysis of MTN Nigeria Customer Churn behavior after price hikes and changes in data plan. 
 
 ## Problem-Statement
-Choosing an MTN data bundle today feels almost like a CBT (Computer Base Test).
+Choosing an MTN data bundle today feels almost like a **CBT** (Computer Base Test).
 
 After ***dialing*** ****312#*** Customers must carefully scroll through multiple confusing options before selecting a data plan.
 This complexity,couple with recent hikes, has caused widespread customer frustration.
 
 Many Customers either:
 
-** Downgrade to cheaper plan,or
+- **Downgrade to cheaper plan,or**
 
-** Churn to competitors
+- **Churn to competitors**
 
 Thus,this **Customer Churn Analysis** seeks to investigate and visualiize the trends behind this behavior and proffer actionable solutions. 
 
@@ -34,6 +34,18 @@ Thus,this **Customer Churn Analysis** seeks to investigate and visualiize the tr
 ## Aims and Objectives 
 This project is primarily to investigate the impact of  MTN's complex data bundle and recent price increase on customer behavior.
 Using an Excel dashboard,Churn rate is explored through different categories,retention rate and customers satisfaction levels is quantified.
+The goal is to provide actionable insights that could help MTN improve retention and customer loyalty.
+
+## Data Source 
+
+## Dashboard preview 
+![Dashboard](MTN_dashboard.png)
+
+
+
+
+
+
 
 
 
