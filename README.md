@@ -1,5 +1,5 @@
 # MTN-Nigeria-Customer-Churn- Intelligence-Report-Q1-2025
-Excel dashboard analysis of MTN Nigeria Customer Churn behavior after price hikes and changes in data plan.
+An Excel dashboard analysis of MTN Nigeria Customer Churn behavior sequel to price hikes and changes in data plan.
 
 ---
 ## Problem Statement
@@ -8,9 +8,7 @@ After ***dialing*** ****312#*** Customers must carefully scroll through multiple
 This complexity,couple with recent hikes,has caused widespread customer frustration.
 
 Many Customers either:
-
 - **Downgrade to cheaper plan,or**
-
 - **Churn to competitors**
 
 Thus,this **Customer Churn Analysis** seeks to investigate and visualiize the trends behind this behavior and proffer actionable solutions. 
@@ -36,7 +34,7 @@ Thus,this **Customer Churn Analysis** seeks to investigate and visualiize the tr
 ---
 
 ## Aims and Objectives 
-This project is primarily to investigate the impact of  MTN's complex data bundle and recent price increase on customer behavior.
+This project is primarily to investigate the impact of  MTN's complex data bundle structures and recent price increases on customer behavior.
 Using an Excel dashboard,Churn rate is explored through different categories,retention rate and customers satisfaction levels is quantified.
 The goal is to provide actionable insights that could help MTN improve retention and customer loyalty.
 
@@ -69,7 +67,7 @@ Download data set @https://www.kaggle.com/datasets/oluwademiladeadeniyi/mtn-nige
 ### 1. Total Revenue Generated in Q1
 ![Bar chart](MTN_1.png) 
 
-- Revenue peaked in February but dropped sharply in March, signaling customer churn or reduced spending after data price increases.
+- Revenue peaked in February but dropped drastically in March, indicating customer churn and reduced spending as a result of increases in data prices.
 - **Recommendation:** Monitor the impact of tariff adjustments and improve customer communication to prevent sudden revenue loss.
 
 ---
@@ -108,18 +106,33 @@ Download data set @https://www.kaggle.com/datasets/oluwademiladeadeniyi/mtn-nige
 - **Recommendation:** Invest urgently in customer experience improvements, especially around pricing transparency and network quality.
 
 ---
-- **Top MTN Devices Used:** Broadband device users show higher loyalty compared to mobile-only users.
+## Additional Insights
+
+- **Top MTN Devices Used:**
+Broadband device users show higher loyalty compared to mobile-only users.
 - **Churn by MTN Device:** SIM card users churn more; broadband device owners are more retained.
 - **Churn by Age Group:** Highest churn seen among middle-aged (41–60) customers — a critical revenue segment.
 
 ---
 
+## Tools and Procedure 
+- **Ms Excel**
+  - **Data cleaning using formulas & functions**
+  - **Pivot tables**
+  - **MTN Brand Colors & Logo integration**
+  - **charts & Slicers**
+    
+  ---
+  
 ## Conclusion
 
 The analysis confirms that MTN's recent changes in data pricing and plan complexity have significantly impacted customer retention.  
 To stabilize churn and improve customer loyalty, MTN should prioritize **price rebalancing**, **loyalty programs** for premium users, **improving service quality**, and **simplifying the customer journey** when purchasing data plans.
 
-
+---
+## About Me
+I'm an aspiring Data Analyst passionate about answering business questions and uncovering business insights through storytelling and dashboard design. Currently developing my skills in Excel, with Power Bi & SQL in view - one project at a time.
+*"The Journey of a thousand miles starts with a consistent step"*
 
 
 
