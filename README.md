@@ -1,11 +1,9 @@
 # MTN-Nigeria-Customer-Churn- Intelligence-Report-Q1-2025
 Excel dashboard analysis of MTN Nigeria Customer Churn behavior after price hikes and changes in data plan.
- ![Dashboard](MTN_dashboad.png)
 
 ---
 ## Problem Statement
 Choosing an MTN data bundle today feels almost like a **CBT** (Computer Base Test).
-
 After ***dialing*** ****312#*** Customers must carefully scroll through multiple confusing options before selecting a data plan.
 This complexity,couple with recent hikes,has caused widespread customer frustration.
 
@@ -21,10 +19,9 @@ Thus,this **Customer Churn Analysis** seeks to investigate and visualiize the tr
 
 | Stage | Action |
 |:------|:-------|
-| **problem** | Confusing data bundles and price hikes|
-| **Customer Reaction** | Downgrading or switching providers |
+|**problem** | Confusing data bundles and price hikes|
+| **Customer Reaction** | Downgrading or switching to competitors|
 | **Investigation** | Churn rate,Retained customers behavior,Satisfaction levels |
-
 
 ---
 
@@ -104,7 +101,7 @@ Download data set @https://www.kaggle.com/datasets/oluwademiladeadeniyi/mtn-nige
 ---
 
 ### 5. Customer Satisfaction Review
-![Bar chart](MTN_7.png)
+![Column chart](Mtn_7.png)
 
 
 - Only 39% of customers rated MTN service as "Excellent" or "Very Good," while many rated it "Fair" or "Poor," indicating dissatisfaction post-tariff hike.
