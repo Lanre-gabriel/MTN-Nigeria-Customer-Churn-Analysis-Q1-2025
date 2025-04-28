@@ -87,6 +87,8 @@ Download data set @https://www.kaggle.com/datasets/oluwademiladeadeniyi/mtn-nige
 ---
 
 ### 3. Churn by Subscription Plan
+![Bar chart](MTN_6_.png)
+
 - High data plans (e.g., 60GB Monthly) experienced the most churn, suggesting price-sensitive customers are either downgrading or switching providers.
 - **Recommendation:** Offer flexible plans or bundles to high-usage customers to retain them even during pricing shifts.
 
