@@ -1,4 +1,4 @@
-# MTN-Nigeria-Customer-Churn- Intelligence-Report-Q1-2025
+# MTN-Nigeria-Customer-Churn-Analysis-Q1-2025
 An Excel dashboard analysis of MTN Nigeria Customer Churn behavior sequel to price hikes and changes in data plan.
 
 ---
