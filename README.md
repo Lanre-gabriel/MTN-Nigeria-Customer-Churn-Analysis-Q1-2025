@@ -1,11 +1,14 @@
-# MTN-Nigeria-Customer-Churn-Analysis-Report-Q1-2025
-Excel dashboard analysis of MTN Nigeria Customer Churn behavior after price hikes and changes in data plan. 
+# MTN-Nigeria-Customer-Churn- Intelligence-Report-Q1-2025
+Excel dashboard analysis of MTN Nigeria Customer Churn behavior after price hikes and changes in data plan.
+ 
+![Dashboard](MTN_dashboad.png)
 
+---
 ## Problem Statement
 Choosing an MTN data bundle today feels almost like a **CBT** (Computer Base Test).
 
 After ***dialing*** ****312#*** Customers must carefully scroll through multiple confusing options before selecting a data plan.
-This complexity,couple with recent hikes, has caused widespread customer frustration.
+This complexity,couple with recent hikes,has caused widespread customer frustration.
 
 Many Customers either:
 
@@ -20,8 +23,11 @@ Thus,this **Customer Churn Analysis** seeks to investigate and visualiize the tr
 | Stage | Action |
 |:------|:-------|
 | **problem** | Confusing data bundles and price hikes|
-| **Customer reaction** | Downgrading or switching providers |
+| **Customer Reaction** | Downgrading or switching providers |
 | **Investigation** | Churn rate,Retained customers behavior,Satisfaction levels |
+
+
+---
 
 **Investigation Focus Areas**
 
@@ -31,15 +37,34 @@ Thus,this **Customer Churn Analysis** seeks to investigate and visualiize the tr
 | **Behaviors of Retained customers**| Analyze if customers are downgrading their data plans | 
 | **Customers Satisfaction** | Assess public opinion after recent price hikes |
 
+---
+
 ## Aims and Objectives 
 This project is primarily to investigate the impact of  MTN's complex data bundle and recent price increase on customer behavior.
 Using an Excel dashboard,Churn rate is explored through different categories,retention rate and customers satisfaction levels is quantified.
 The goal is to provide actionable insights that could help MTN improve retention and customer loyalty.
 
+---
+
 ## Data Source 
+The dataset used for this project is available on Kaggle.
+Download data set @https://www.kaggle.com/datasets/oluwademiladeadeniyi/mtn-nigeria-customer-churn
+
+---
 
 ## Dashboard preview 
 ![Dashboard](MTN_Nig_dashboard.png)
+
+---
+## KPI'S Metrics
+- **Total Customer:** **974**
+- **Total Revenue:** **#199+**
+- **Churn Rate:** **29%**
+- **Retention Rate:71%**
+- **Customer satisfaction Rate: 39%**
+- **Top State by Users: Osun State**
+- **Top Age group: 41 - 50 years**
+- **Most Subscribed plan: 60GB Monthly Broadband plan**
 
 ---
 
